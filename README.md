@@ -2,11 +2,12 @@
 
 Extract structured data from [Dice.com](https://Dice.com) — Dice.com tech job listings with structured salary (min/max/currency), full descriptions, company data, and 8+ search filters. Incremental mode tracks new/updated/expired jobs across runs. No proxy needed — $0 per request.
 
-**[Dice.com Job Scraper on Apify →](https://apify.com/blackfalcondata/dice-com-job-scraper)**
+**[Dice.com Job Scraper - U.S. Tech Jobs on Apify →](https://apify.com/blackfalcondata/dice-com-job-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [Dice.com](https://Dice.com) — Dice.com tech job 
 ---
 
 ## Use cases
+
 
 
 
@@ -94,6 +96,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
